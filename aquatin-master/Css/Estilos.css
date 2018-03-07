@@ -93,14 +93,17 @@ section.test{
 	margin: 0;
 	padding: 0;
 	background: #A901DB;
+	
+
 }
 
 .menu li{
 	display: inline-block;
+
 }
 
 .menu li a{
-	padding: 10px 20px;
+	padding: 10px 6em;
 	display: inline-block;
 	color: white;
 }
