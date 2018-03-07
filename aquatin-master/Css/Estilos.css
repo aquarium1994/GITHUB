@@ -86,3 +86,26 @@ display: inline-block;
 section.test{
 	display: inline-block;
 }
+
+.menu {
+	width: 100%;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	background: #A901DB;
+}
+
+.menu li{
+	display: inline-block;
+}
+
+.menu li a{
+	padding: 10px 20px;
+	display: inline-block;
+	color: white;
+}
+.menu li a:hover{
+background: white;
+color: blue;
+
+}
